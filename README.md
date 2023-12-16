@@ -9,7 +9,7 @@ Certifique-se de ter o Docker instalado em sua máquina.
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/flask-docker-app.git
+    git clone https://github.com/facaj/flask-docker-app.git
     ```
 
 2. Navegue até o diretório do projeto:
