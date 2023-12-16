@@ -15,7 +15,7 @@ Certifique-se de ter o Docker instalado em sua máquina.
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd flask-docker-app
+    cd aula_docker_pos_unipe
     ```
 
 3. Construa a imagem Docker:
